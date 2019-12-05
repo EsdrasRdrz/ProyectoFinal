@@ -1,0 +1,10 @@
+
+Shampoo_NutriCare Tratamiento_profundo 1500
+Mascarilla_NutriCare Cuidado_de_hebras 3200
+Ampolla_Megacondition Ampolla_laceadora 250
+Ampolla_Fanola Ampolla_antica¡da 250
+Ampolla_Oro Ampolla_fortalecimiento 450
+Ampolla_Fusion Ampolla_complementadora 750
+Protector_Solar Antisol_veneno_aveja 1200
+Shampoo_Seco Desgrasante 1700
+Aceite_Morocc Gota_terminacion 1990

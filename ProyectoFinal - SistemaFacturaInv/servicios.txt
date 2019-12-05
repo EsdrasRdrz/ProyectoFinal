@@ -1,0 +1,11 @@
+
+Proceso_qu¡mico 10000
+Lavado_normal 300
+Lavado_normal_corto 300
+Lavado_normal_medio 350
+Lavado_normal_largo 400
+Lavado_linea_corto 500
+Lavado_linea_medio 550
+Lavado_linea_largo 600
+Profundo_deya 1500
+
